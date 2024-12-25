@@ -1,0 +1,22 @@
+.sectionForm{
+    display: flex;
+    margin: 3rem 0rem;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.form{
+    background-color:rgb(230, 225, 225);
+
+  
+    box-shadow: 7px 7px 15px rgba(0,0,0,0.08);
+    border-radius: 20px;
+    padding: 8px 100px;
+
+}
+.tituloForm{
+    font-size: 1rem;
+    padding-bottom: 1rem;
+    
+}

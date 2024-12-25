@@ -1,0 +1,21 @@
+.orgSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    position: relative; /* Asegura que el ícono sea relativo a este contenedor */
+}
+
+.orgSection h3 {
+    color: #6278F7;
+    font-size: 2rem;
+    padding-bottom: 15px;
+    font-weight: 400;
+    border-bottom: #6278F7 4px solid;
+}
+
+.orgSection i {
+    margin-left: 1rem; /* Separa el ícono del contenido */
+    cursor: pointer;
+    font-size: 2rem;
+}
